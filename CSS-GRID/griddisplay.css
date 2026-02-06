@@ -1,0 +1,7 @@
+.container {
+    display: grid;
+    /* criando colunas */
+    grid-template-columns: 30px 30px 30px;
+    /* criando linhas */
+    grid-template-rows: 30px 30px 30px;
+}
